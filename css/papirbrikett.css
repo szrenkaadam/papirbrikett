@@ -2,11 +2,13 @@ body{
   padding: 15px;
   color: blue;
   line-height: 110%;
+  background-image: url(../images/hatterkep.png);
 }
 
 h1{
 
   margin: 10px 0px 40px;
+  text-align: center;
 }
 
 h1, h2{
@@ -55,8 +57,18 @@ p:first-letter{
 
 .kiemelt{
   font-style: italic;
+  border-top: 1px #3F4F5F;
+  border-bottom: 1px #3F4F5F;
 }
 
 li{
   margin-top: 10px;
+}
+
+.bevezeto {
+
+}
+
+.brikettek {
+
 }
